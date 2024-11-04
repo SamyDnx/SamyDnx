@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamyDnx
 - 👀 I’m interested in Coding in general
-- 🌱 I’m currently learning Go, C++, PHP, and others (I will stick to 1 one day)
+- 🌱 I’m currently learning Go, C/C++, C#, PHP (I can decide wich one to stick with)
 - 💞️ I’m looking to collaborate on cool things
 - 📫 How to reach me don't
 - 😄 Pronouns: he/him
