@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @SamyDnx<br>- 👀 I’m interested in Coding in general<br>- 🌱 I’m currently learning way too many things to be efficient at any x)<br>- 💞️ I’m looking to collaborate on cool things<br>- 📫 How to reach me don't<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I'm from Belgium (wow)
+- 👋 Hi, I’m @SamyDnx<br>- 👀 I’m interested in Coding in general<br>- 🌱 I’m currently learning way too many things to be efficient at any x)<br>- 💞️ I’m looking to collaborate on cool things<br>- 📫 How to reach me yes<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I'm from Belgium (wow)
 
 
 # 💻 Tech Stack:
